@@ -1,0 +1,35 @@
+Azure VM sizes:
+
+A standard
+1-7 v1 / v2
+
+Xm_v2   <memory optimes -> x2 geheugen
+
+D general purpose
+1-15 v1/ v2
+
+1-5 v2 normaal
+11-15 v2 memory optimised (waarbij D11 -> D2 x2 geheugen)
+
+
++ local SSD    /dev/azure
+               /mnt
+      windows  :anguished:
+100 GB+ volatile
+
+
+G highend databases (SAP, redis)
+
+
+
+
+ADG -> ADG+S
++mogelijkheidheid voor SSD
+- local SSD
+
+
+L highend storage dbs (Cassandra, RDBMS)
+
+
+
+N(c) + GPU

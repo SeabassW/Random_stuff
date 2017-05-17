@@ -1,0 +1,62 @@
+Migreren:
+ese-knowledge-sharing (SQL server + DB) Tutorials
+HDI cluster heeft nieuwe metastore nodig
+
+SQL server komen als onderdeel van analytics platform.
+--> Meer DBs mogelijk om onder te hangen
+
+Storage:
+datasciencedisks349 <--> DataScienceVM (1TB nu)
+OSDisk of Partitie?
+Kosten OSDisk uitzoeken. Premium_LRS ja/nee?
+
+enecodsstorage -> bevat veel data. Huib zoekt uit wat mee moet en gooit weg wat niet
+
+[Aparte taak]
+Shiny: VM + storage + server
+Geen ssh tunnels dus scheiden van HDI cluster
+Welke poorten staan open? TCP/22, TCP/80, TCP/443
+Grootte VM: 2 cores 7GB
+
+ecsazstoragebdpatoond ->  Geen updates sinds 6-1, nu up atoonp
+
+open-directory app aangemaakt. ese-knowledge-sharing in Eneco Groep
+
+migreren: hoofd-acc-pro:- bdpamiscp (storage account)
+			- bdpatoonp (storage account)
+			- 
+
+Belading toonset. 
+- Wordt deze nog geupdate? 
+- Hoe is deze gepartitioneerd? Huidige partitie strategie is erg langzaam
+
+[Aparte taak]
+Kosten DS Cluster uitzoeken en overzichtelijk krijgen.
+- Welke modules verbruiken het meest?
+- BDP analytics omgeving kost EXXXX,-. Klopt dat?
+	- Werkelijk?
+	- Volgens prijsoverzicht van Azure?
+
+Scaling:
+- Alleen op cluster niet op VM. Downtime VM is erg vervelend
+- Waar ligt verantwoordelijkheid van scalen?
+	- Big Data team
+	- Data Scientist
+Oplossing:
+	- Gebruikers mogen upscalen, maar wordt altijd na kantooruren (7 uur) gedownscaled. 
+
+
+Nieuwe DS cluster is gefaald met OS provisie --> Oplossen. 
+
+
+Rechten Huib Active Directory intrekken als hij die heeft. 
+
+ 
+
+
+
+
+
+
+
+
