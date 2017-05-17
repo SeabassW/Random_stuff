@@ -1,0 +1,59 @@
+Planning JavaScript Tutorial
+
+Week 1: Making a Website with HTML and CSS; Learn JavaScript Data Types, Functions, Control Flow, and Loops
+
+Codecademy.com: If you do not already know HTML and CSS, complete the Web Fundamentals Track on Codecademy.
+[Result]=
+----
+
+Codecademy.com: Then follow the Make a Website track to make your first little website, using what you learned above.
+[Result]=
+----
+
+Beginning JavaScript: Read Chapter 1 (Introduction to JavaScript and the Web) and Chapter 2 (Data Types and Variables).
+[Result]=
+----
+
+Beginning JavaScript: Read Chapter 3 (Decisions, Loops, and Functions).
+[Result]=
+----
+
+Codecademy.com: Work through the JavaScript Track on Codecademy. Specifically, work through these sections: “Introduction to JavaScript,” “Functions,” “‘For’ Loops in JavaScript,” “‘While’ Loops in JavaScript,” and “Control Flow.”
+[Result]=
+----
+
+Beginning JavaScript: Read Chapter 4 (Common Mistakes, Debugging, and Error Handling).
+[Result]=
+----
+
+\\\\\
+
+Week 2: Learn JavaScript Objects, the Browser Object Model (BOM), and Events; Learn jQuery
+
+Beginning JavaScript: Read Chapter 5 (JavaScript — An Object- Based Language).
+[Result]=
+----
+
+JavaScriptIsSexy.com: Read my article, JavaScript Objects in Detail
+[Result]=
+----
+
+Codecademy.com: Work through the last three sections of the Codecademy JavaScript track: “Data Structures,” “Objects 1,” and “Objects 2.”
+[Result]=
+----
+
+Beginning JavaScript: Read Chapter 6 (Programming the Browser).
+[Result]=
+----
+
+Beginning JavaScript: Read Chapter 15 (JavaScript Frameworks), and stop just after you complete this section: “Digging Deeper Into jQuery”.
+[Result]=
+----
+
+Codecademy.com: Work through the entire jQuery Track on Codecademy.
+[Result]=
+----
+
+\\\\\
+
+Week 3: TBD
