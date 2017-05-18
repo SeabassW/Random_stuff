@@ -1,10 +1,12 @@
-Planning JavaScript Tutorial
+Planning JavaScript Tutorial\
+http://javascriptissexy.com/how-to-learn-javascript-properly/
 
 Part 1: Making a Website with HTML and CSS; Learn JavaScript Data Types, Functions, Control Flow, and Loops
 
 Codecademy.com: If you do not already know HTML and CSS, complete the Web Fundamentals Track on Codecademy.
 [Result]= 
 17/5/17: Finished HTML & CSS: Part 1 until #3 CSS Fundamentals 11%
+18/5/17: Finished HTML & CSS: Part 1 completely
 ----
 
 Codecademy.com: Then follow the Make a Website track to make your first little website, using what you learned above.
