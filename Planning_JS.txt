@@ -10,7 +10,8 @@ Codecademy.com: If you do not already know HTML and CSS, complete the Web Fundam
 ----
 
 Codecademy.com: Then follow the Make a Website track to make your first little website, using what you learned above.
-[Result]=
+[Result]= 
+23/5/17: Finished Make a Website 
 ----
 
 Beginning JavaScript: Read Chapter 1 (Introduction to JavaScript and the Web) and Chapter 2 (Data Types and Variables).
