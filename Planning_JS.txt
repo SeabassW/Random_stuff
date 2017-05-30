@@ -16,7 +16,7 @@ Codecademy.com: Then follow the Make a Website track to make your first little w
 
 Beginning JavaScript: Read Chapter 1 (Introduction to JavaScript and the Web) and Chapter 2 (Data Types and Variables).
 [Result]= 
-
+30/5/17: Finished Chapter 1
 ----
 
 Beginning JavaScript: Read Chapter 3 (Decisions, Loops, and Functions).
