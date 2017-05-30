@@ -1,0 +1,30 @@
+Learning OS10
+
+Guided path: Becoming a Mobile Developer
+
+Modules:												Time estimation:		Done:
+1. Developing OutSystems Mobile Apps 					(32 hours)				
+2. Webinar: Secret Hacks for OutSystems 10				(1/2 hour)				
+3. Webinar: Introducing Silk UI Mobile 					(1 hour)				
+4. Master Class on JavaScript and jQuery				(2 hours)
+5. Master Class on OutSystems 10 Mobile Development		(4 hours)
+6. Webinar Off the Electrical Grid Plug Into Cordova 	(1 hour)
+7. Webinar: Create Your Offline App 					(1 hour)
+8. Webinar: The Challenge of Complex Offline Apps		(1 hour)
+9. Webinar: Troubleshooting Mobile Apps Performance 	(1 hour)
+
+Module 1: 												Content:				Done:
+a. Course Intro 										(text)					
+b. Platform Basics										(2 vids)
+c. Mobile Development Basics							(5 vids, 2 excs)
+d. Mobile Themes and Templates							(2 vids, 1 exc)
+e. Mobile Programming									(3 vids)
+f. UI Basics											(1 vid, 3 excs)
+g. Mobile App Generation								(1 vid, 1 exc)
+h. Local Storage and Offline							(2 vids, 2 excs)
+i. Reusable Patterns									(2 vids, 2 excs)
+j. Charts												(1 vid, 1 exc)
+k. Plugins												(1 vid, 1 exc)
+l. Data Synchronization 								(1 vid, 1 exc)
+m. Web Development										(2 excs)
+n. Final Project (Toon lite as project)					(1 exc; 6 hours)
